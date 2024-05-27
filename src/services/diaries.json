@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "date": "2024-05-20",
+        "weather": "Sunny",
+        "visibility": "Clear",
+        "comment": "A beautiful sunny day with clear skies."
+    },
+    {
+        "id": 2,
+        "date": "2024-05-21",
+        "weather": "Partly Cloudy",
+        "visibility": "Good",
+        "comment": "Partly cloudy but overall a nice day."
+    },
+    {
+        "id": 3,
+        "date": "2024-05-22",
+        "weather": "Rainy",
+        "visibility": "Moderate",
+        "comment": "Rainy weather with moderate visibility."
+    },
+    {
+        "id": 4,
+        "date": "2024-05-23",
+        "weather": "Foggy",
+        "visibility": "Low",
+        "comment": "Dense fog reducing visibility significantly."
+    },
+    {
+        "id": 5,
+        "date": "2024-05-24",
+        "weather": "Windy",
+        "visibility": "Good",
+        "comment": "Windy day with good visibility."
+    }
+]
